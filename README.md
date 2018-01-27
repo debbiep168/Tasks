@@ -1,2 +1,2 @@
 # Task Manager
-![alt text](TaskManagerImage.png)
+![alt text](screenshots/TaskManagerImage.png)
